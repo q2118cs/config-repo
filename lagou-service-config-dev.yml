@@ -1,4 +1,5 @@
 mysql:
+  driver_class_name: com.mysql.jdbc.Driver
   url: jdbc:mysql://140.143.226.97:3306/cloud?useUnicode=true&characterEncoding=utf8
   username: root
   password: 2118920pp
