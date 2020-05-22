@@ -1,2 +1,2 @@
-lagou:
- message:111
+mysql:
+  url: jdbc:mysql://140.143.226.97:3306/cloud?useUnicode=true&characterEncoding=utf8
