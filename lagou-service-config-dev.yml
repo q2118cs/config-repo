@@ -9,4 +9,4 @@ mail:
   password: ywgdpgmwaaaxcbeb
 ipflush:
   limitnumber: 10
-  limittime: 2
+  limittime: 1
